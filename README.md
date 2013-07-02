@@ -1,0 +1,4 @@
+ArmlistRipper
+=============
+
+Just a start.
